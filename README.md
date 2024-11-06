@@ -3,12 +3,6 @@
 An awesome Resume Builder web app. User can register any social service by logging into it. User can log in with gmail are registering with a manual email. User can Creating a Professional Resume and Print it.
 
 
-## 🚀 Important Links
-
-- [Live Website](https://resume-builder-bd.web.app/)
-- [Project Proposal](https://drive.google.com/file/d/1wjUupz3V52tfxB4uFbuCh7uEsVX8WEcM/view?usp=sharing)
-- [Project Documentation](https://drive.google.com/file/d/1zkSioSj1OojEsuJZSpw6hbFIDbqAAMU5/view?usp=sharing)
-
 ## 💎 Features :
 
 * This web app provide an easy way of creating professional looking resume.
