@@ -12,6 +12,38 @@ professional hints.
 * The system automatically generates a well structured resume and user can
 download or print his/her resume.
 
+## 🖼️ Glimpses of the Project
+
+Here are some glimpses of the project in action:
+
+### 1. **Home Page**
+
+![Home Page](images/home-page.png)
+*The main landing page where users can register or log in.*
+
+### 2. **Resume Creation Form**
+
+![Resume Creation Form](images/resume-form.png)
+*A snapshot of the form users fill out to create their resumes.*
+
+### 3. **Template Selection**
+
+![Template Selection](images/template-selection.png)
+*Users can choose from various templates that suit their industry.*
+
+### 4. **Preview of Final Resume**
+
+![Resume Preview](images/resume-preview.png)
+*A preview of how the resume looks once it's filled out and ready to download.*
+
+### 5. **User Dashboard**
+
+![User Dashboard](images/user-dashboard.png)
+*Users can view, edit, and manage their resumes from their dashboard.*
+
+---
+
+
 ## 🛠 Front-end Thechnology : 
 * React.js
 * Context-API
